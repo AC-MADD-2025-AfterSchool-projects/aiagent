@@ -20,6 +20,3 @@ backend - Node.js, Express.js, Prisma & MongoDB
 LLM - Ollama API
 Maybe need Message Queue later for avoid backend arch tight coupling since some of the LLM will response slow.
 
-## init env installation
-https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts
-
